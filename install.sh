@@ -12,3 +12,7 @@ sudo apt install -y i3
 sudo apt install -y polybar;
 chmod +x $HOME/.config/polybar/launch.sh
 cp /usr/share/doc/polybar/config .config/polybar/config
+
+# Display config
+# Change display order
+xrandr --output DP-2 --left-of DVI-D-0
