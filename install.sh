@@ -1,5 +1,13 @@
 #/bin/bash
 
+# HELPFUL COMMANDS
+#tty
+ctrl+alt+F5
+#gnome login
+ctrl+alt+F1
+#check current wm
+cat /etc/X11/default-display-manager
+
 sudo apt-get -y update;
 sudo apt-get -y upgrade;
 
