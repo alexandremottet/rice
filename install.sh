@@ -7,6 +7,8 @@
 # ctrl+alt+F1
 # check current wm
 # cat /etc/X11/default-display-manager
+# change windows manager
+# sudo nano /var/lib/AccountsService/users/alexandre
 
 sudo apt-get -y update;
 sudo apt-get -y upgrade;
