@@ -13,7 +13,7 @@
 sudo apt-get -y update;
 sudo apt-get -y upgrade;
 
-sudo apt-get install -y build-essential git vim xcb;
+sudo apt-get install -y build-essential git vim xcb alacritty;
 
 # xrdb / color manager
 sudo apt install -y xrdb
