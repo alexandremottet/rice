@@ -26,7 +26,7 @@ setxkbmap -layout fr
 xrandr --output DP-2 --left-of DVI-D-0
 
 # Background
-nitrogen --set-scaled ~/grass.jpg
+feh --bg-max grass.jpg --image-bg white
 
 # Polybar
 ../polybar/launch.sh
