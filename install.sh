@@ -12,11 +12,12 @@
 
 sudo apt-get -y update;
 sudo apt-get -y upgrade;
+sudo add-apt-repository ppa:aslatter/ppa
 
 sudo apt-get install -y build-essential git vim xcb alacritty;
 
-# xrdb / color manager
-sudo apt install -y xrdb
+# allreadyinstalled - xrdb / color manager
+# sudo apt-get install -y xrdb
 
 # bspwm
 sudo apt-get install -y bspwm
