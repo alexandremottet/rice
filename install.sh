@@ -14,7 +14,7 @@ sudo apt-get -y update;
 sudo apt-get -y upgrade;
 sudo add-apt-repository ppa:aslatter/ppa
 
-sudo apt-get install -y build-essential git vim xcb alacritty;
+sudo apt-get install -y build-essential git vim xcb alacritty nitrogen;
 
 # allreadyinstalled - xrdb / color manager
 # sudo apt-get install -y xrdb
