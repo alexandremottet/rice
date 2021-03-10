@@ -10,6 +10,9 @@
 # change windows manager
 # sudo nano /var/lib/AccountsService/users/alexandre
 
+# aimated background
+#  https://imgur.com/gallery/F9DAH
+
 sudo apt-get -y update;
 sudo apt-get -y upgrade;
 sudo add-apt-repository ppa:aslatter/ppa
