@@ -31,4 +31,4 @@ xrandr --output DP-2 --left-of DVI-D-0
 feh --bg-fill montgolfiere.jpg --image-bg white
 
 # Polybar
-../polybar/launch.sh
+~/.config/polybar/launch.sh &
